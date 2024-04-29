@@ -12,6 +12,11 @@
               "home": "Home"
        },
        "Footers": {
-              "copyright": "2024 Your App. All rights reserved."
+              "top-center": "Republic of Uzbekistan, 100000, Tashkent, 1st narrow street Amir Temur , house 6",
+              "top-right": "Subscribe to our news",
+              "center-left-top": "It is imperative to link to the website when information from the Website is published",
+              "center-left-bottom": "All materials on this site are available under the following license: Creative Commons Attribution 4.0 International",
+              "center-right": "If you find an error in the text, select it and press “Ctrl + Enter” to notify the administration",
+              "bottom-right": "Developed by"
        }
 }

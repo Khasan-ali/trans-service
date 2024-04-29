@@ -1,0 +1,21 @@
+{
+       "IndexPage": {
+              "title": "next-intl xush kelibsiz",
+              "description": "Next.js xalqarolashtirish (i18n) misoliga xush kelibsiz"
+       },
+       "NotFoundPage": {
+              "title": "Page topilmadi",
+              "description": "Voy! Siz shunday sahifaga qoqilib qolganga o'xshaysiz"
+       },
+       "Navigation": {
+              "home": "Uy"
+       },
+       "Footers": {
+              "top-center": "Республика Узбекистан, 100000, г.Ташкент, 1-й пр-д Амира Темура, дом 6",
+              "top-right": "Подпишитесь на наши новости",
+              "center-left-top": "Ссылка на сайт обязательна при публикации информации с сайта",
+              "center-left-bottom": "Все материалы сайта доступны на условиях следующей лицензии: Creative Commons Attribution 4.0 International",
+              "center-right": "Если Вы нашли ошибку в тексте, выделите её и нажмите “Ctrl+Enter” для уведомления администрации",
+              "bottom-right": "Разработано"
+       }
+}

@@ -18,16 +18,14 @@ export default function LocalSwitcher() {
        }
 
        return (
-              <label style={{border: '2px'}}>
-                     <p>change language</p>
-
-                     <select defaultValue={localActive}
+                     <select style={{padding: "10px", background: "#F3F3F3", borderRadius: "5px"}} defaultValue={localActive}
                       onChange={onSelectChange}
                       disabled={isPending}
                       >
-                            <option value="en">English</option>
-                            <option value="id">Uz</option>
+                            <option value="uz">O'ZB</option>
+                            <option value="id">ЎЗБ</option>
+                            <option value="ru">РУС</option>
+                            <option value="en">ENG</option>
                      </select>
-              </label>
        );
 }

@@ -1,0 +1,21 @@
+{
+       "IndexPage": {
+              "title": "next-intl xush kelibsiz",
+              "description": "Next.js xalqarolashtirish (i18n) misoliga xush kelibsiz"
+       },
+       "NotFoundPage": {
+              "title": "Page topilmadi",
+              "description": "Voy! Siz shunday sahifaga qoqilib qolganga o'xshaysiz"
+       },
+       "Navigation": {
+              "home": "Uy"
+       },
+       "Footers": {
+              "top-center": "Oʻzbekiston Respublikasi, 100000, Toshkent shahri, Amir Temur 1-tor koʻchasi, 6 uy",
+              "top-right": "Yangiliklarimizga obuna bo‘ling",
+              "center-left-top": "Veb-saytdan olingan maʼlumotlar chop etilganda veb-saytga havola qilish majburiy",
+              "center-left-bottom": "Saytdagi barcha materiallardan quyidagi litsenziya bo‘yicha foydalanish mumkin: Creative Commons Attribution 4.0 International",
+              "center-right": "Matnda xato topsangiz, uni tanlang va veb-sayt ma’muriyatini xabardor qilish uchun “Ctrl + Enter” tugmasini bosing",
+              "bottom-right": "tomonidan ishlab chiqilgan"
+       }
+}
