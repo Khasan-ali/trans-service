@@ -17,5 +17,86 @@
               "center-left-bottom": "Saytdagi barcha materiallardan quyidagi litsenziya bo‘yicha foydalanish mumkin: Creative Commons Attribution 4.0 International",
               "center-right": "Matnda xato topsangiz, uni tanlang va veb-sayt ma’muriyatini xabardor qilish uchun “Ctrl + Enter” tugmasini bosing",
               "bottom-right": "tomonidan ishlab chiqilgan"
+       },
+       "Header": {
+              "first-title": "Biz haqimizda",
+              "first-section-one": "Biz haqimizda",
+              "first-section-two": "Rahbariyat",
+              "first-section-three": "Tuzilma",
+              "first-section-five": "Bo‘lim va xizmatlar",
+              "first-section-six": "Tarkibiy korxonalar",
+              "first-section-seven": "Me’yoriy hujjatlar",
+              "first-section-eight": "Bo‘sh ish o‘rinlari",
+              "first-section-nine": "Tez-tez so‘raladigan savollar",
+              "first-section-ten": "Jamiyat – raqamlashtirish",
+              "first-section-eleven": "Jamiyat kasaba uyushmasi",
+
+              "second-title": "Faoliyat",
+              "second-section-one": "Korxonalar yo‘nalishlari",
+              "second-section-two": "Chora-tadbirlar",
+              "second-section-three": "Hisobotlar",
+              "second-section-four": "Elektron hukumat",
+              "second-section-five": "Hamkorlik",
+              "second-section-six": "Xizmatlar",
+              "second-section-seven-title": "Yoshlar siyosati",
+              "second-section-seven-one-text": "Yoshlarga oid yangiliklar",
+              "second-section-seven-two-text": "Yoshlarga oid me’yoriy hujjatlar",
+              
+              "three-title": "Korporativ boshqaruv",
+              "three-section-one-title": "Boshqaruv nazorati organi",
+              "three-section-one-text-one": "Kuzatuv kengashi",
+              "three-section-one-text-two": "Ijro organi",
+              "three-section-one-text-three": "Taftish komissiyasi",
+              "three-section-one-text-four": "Ichki audit xizmati",
+              "three-section-one-text-five": "Kuzatuv kengashi a’zolarini mukofotlash",
+
+              "three-section-two-title": "Ma’lumotlarni oshkor etish",
+              "three-section-two-text-one": "Qimmatbaho qog‘ozlar chiqarish",
+              "three-section-two-text-two": "Muhim faktlar",
+              "three-section-two-text-three": "Buxgalteriya hisobining milliy standartlari",
+              "three-section-two-text-four": "Moliyaviy hisobotning xalqaro standartlari",
+              "three-section-two-text-five": "Audit xulosasi",
+              "three-section-two-text-six": "Emitent hisobotlari",
+
+              "three-section-three-title": "Jamiyatning ichki hujjatlari",
+
+              "three-section-four-title": "Aksiyadorlarga",
+              "three-section-four-text-one": "Ustav fondi",
+              "three-section-four-text-two": "Afillangan shaxslar",
+              "three-section-four-text-three": "Aksiyadorlar ro‘yxati",
+              "three-section-four-text-four": "Rezident bo'lmagan aksiyadorlarga",
+              "three-section-four-text-five": "Dividendlar",
+
+              "three-section-five-title": "Loyihalar",
+              "three-section-five-text-one": "Investitsion loyihalar",
+              "three-section-five-text-two": "Tenderlar",
+              "three-section-five-text-three": "Davlat xaridlari",
+              "three-section-five-text-four": "Davlat xususiy sheriklik",
+              "three-section-five-text-five": "Tadbirlar",
+
+              "three-section-six-title": "KBT baholash natijalari",
+
+              "three-section-seven-title": "Samaradorlikning muhim ko'rsatkichlari",
+
+              "three-section-eight-title": "Biznes reja",
+
+              "four-title": "Matbuot markazi",
+              "four-section-one": "Yangiliklar",
+              "four-section-two": "Media-tadbir",
+              "four-section-three": "Fotogalereya",
+              "four-section-four": "Videogalereya",
+              "four-section-five": "Matbuot xizmati bilan bog‘lanish",
+
+              "five-title": "Komplaens nazorati",
+
+              "six-title": "Ochiq ma’lumotlar",
+
+              "seven-title": "Aloqa",
+              "seven-section-one": "Devonxona",
+              "seven-section-two": "Xalqaro hamkorlik",
+              "seven-section-three": "Ishonch telefoni",
+              "seven-section-four": "Qayta aloqa",
+              "seven-section-five": "Fuqarolar murojaati",
+              "seven-section-six": "Fuqarolar murojaatlari statistikasi"
        }
 }

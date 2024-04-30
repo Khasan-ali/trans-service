@@ -15,6 +15,7 @@ export default function LocalSwitcher() {
               startTransition(() => {
                      router.replace(`/${nextLocale}`)
               })
+              // props.setLang(nextLocale)
        }
 
        return (

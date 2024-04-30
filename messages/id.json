@@ -17,5 +17,9 @@
               "center-left-bottom": "Сайтдаги барча материаллардан қуйидаги лицензия бўйича фойдаланиш мумкин: Creative Commons Attribution 4.0 International",
               "center-right": "Матнда хато топсангиз, уни танланг ва веб-сайт маъмуриятини хабардор қилиш учун “Ctrl + Enter” тугмасини босинг",
               "bottom-right": "томонидан ишлаб чиқилган"
+       },
+       "Header": {
+              "first-title": "Biz haqimizda",
+              "second-title": "Xizmatlar"
        }
 }

@@ -15,7 +15,7 @@ export default function Footer() {
                      <div className={cls.footer_container}>
                             <div className={cls.footer_top}>
                                    <Link href={'/'}>
-                                          <Image src={Logo} alt="Footer has logo" />
+                                          <Image className={cls.footer_logo} src={Logo} alt="Footer has logo" />
                                    </Link>
                                    <div className={cls.footer_top_center}>
                                           <p className={cls.footer_top_center_phone}>+998 (71) 233-89-21</p>
@@ -26,7 +26,7 @@ export default function Footer() {
                                                  {t('top-right')}
                                                  <div className={cls.footer_top_input_section}>
                                                         <input className={cls.footer_top_input}
-                                                        id="footer-id"
+                                                               id="footer-id"
                                                          type="email"
                                                          placeholder="E-mail" />
                                                          <button className={cls.footer_top_input_btn}>
@@ -41,7 +41,7 @@ export default function Footer() {
                                           <p className={cls.footer_center_left}>{t('center-left-top')}</p>
                                           <p className={cls.footer_center_left}>{t('center-left-bottom')}</p>
                                    </div>
-                                   <Image src={FooterCenterImg} alt="footer center img" />
+                                   <Image className={cls.footer_center_img} src={FooterCenterImg} alt="footer center img" />
                                    <p className={cls.footer_center_right}>{t('center-right')}</p>
                             </div>
                             <div className={cls.footer_bottom}>
@@ -51,7 +51,6 @@ export default function Footer() {
                                           <p className={cls.footer_right_text}>{t('bottom-right')}</p>
                                    </div>
                             </div>
-                            {/* <p>{t('copyright')}</p> */}
                      </div>
               </footer>
        )

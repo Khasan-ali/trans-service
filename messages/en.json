@@ -18,5 +18,9 @@
               "center-left-bottom": "All materials on this site are available under the following license: Creative Commons Attribution 4.0 International",
               "center-right": "If you find an error in the text, select it and press “Ctrl + Enter” to notify the administration",
               "bottom-right": "Developed by"
+       },
+       "Header": {
+              "first-title": "Weee services",
+              "second-title": "Services"
        }
 }
