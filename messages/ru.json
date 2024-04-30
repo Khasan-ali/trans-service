@@ -19,7 +19,84 @@
               "bottom-right": "Разработано"
        },
        "Header": {
-              "first-title": "СМЫВЫВЫВывмыв",
-              "second-title": "ымвымвыамвы"
+              "first-title": "O нас",
+              "first-section-one": "O нас",
+              "first-section-two": "Руководство",
+              "first-section-three": "Структура",
+              "first-section-five": "Отдел и услуги",
+              "first-section-six": "Подведомственные предприятия",
+              "first-section-seven": "Нормативные документы",
+              "first-section-eight": "Вакансии",
+              "first-section-nine": "Часто задаваемые вопросы",
+              "first-section-ten": "Цифровой – Общества",
+              "first-section-eleven": "Профсоюз Общества",
+
+              "second-title": "Деятельность",
+              "second-section-one": "Маршруты предприятий",
+              "second-section-two": "План мероприятий",
+              "second-section-three": "Отчеты",
+              "second-section-four": "Электронное правительство",
+              "second-section-five": "Сотрудничество",
+              "second-section-six": "Услуги",
+              "second-section-seven-title": "Молодежная политика",
+              "second-section-seven-one-text": "Молодежные новости",
+              "second-section-seven-two-text": "Нормативные документы по молодежи",
+              
+              "three-title": "Корпоративное управление",
+              "three-section-one-title": "Орган управленческого контроля",
+              "three-section-one-text-one": "Наблюдательный совет",
+              "three-section-one-text-two": "Исполнительный орган",
+              "three-section-one-text-three": "Ревизионная комиссия",
+              "three-section-one-text-four": "Служба внутреннего аудита",
+              "three-section-one-text-five": "Вознаграждение членов Наблюдательного совета",
+
+              "three-section-two-title": "Раскрытие информации",
+              "three-section-two-text-one": "Выпуск ценных бумаг",
+              "three-section-two-text-two": "Важные факты",
+              "three-section-two-text-three": "Национальные стандарты бухгалтерского учета",
+              "three-section-two-text-four": "Международные стандарты финансовой отчетности",
+              "three-section-two-text-five": "Аудиторское заключение",
+              "three-section-two-text-six": "Отчеты эмитента",
+
+              "three-section-three-title": "Внутренние документы Общества",
+
+              "three-section-four-title": "Акционерам",
+              "three-section-four-text-one": "Уставный фонд",
+              "three-section-four-text-two": "Аффилированные лица",
+              "three-section-four-text-three": "Список акционеров",
+              "three-section-four-text-four": "Акционерам-нерезидентам",
+              "three-section-four-text-five": "Дивиденды",
+
+              "three-section-five-title": "Проекты",
+              "three-section-five-text-one": "Инвестиционные проекты",
+              "three-section-five-text-two": "Тендеры",
+              "three-section-five-text-three": "Государственные закупки",
+              "three-section-five-text-four": "Государственно-частное партнерство",
+              "three-section-five-text-five": "Мероприятия",
+
+              "three-section-six-title": "Существенные показатели производительности",
+
+              "three-section-seven-title": "Ключевые показатели эффективности",
+
+              "three-section-eight-title": "Бизнес план",
+
+              "four-title": "Пресс-центр",
+              "four-section-one": "Новости",
+              "four-section-two": "Медиа-мероприятие",
+              "four-section-three": "Фотогалерея",
+              "four-section-four": "Видеогалерея",
+              "four-section-five": "Связаться с пресс-службой",
+
+              "five-title": "Комплаенс-контроль",
+
+              "six-title": "Открытые данные",
+
+              "seven-title": "Контакты",
+              "seven-section-one": "Канцелярия",
+              "seven-section-two": "Международное сотрудничество",
+              "seven-section-three": "Телефон доверия",
+              "seven-section-four": "Обратная связь",
+              "seven-section-five": "Обращение граждан",
+              "seven-section-six": "Статистика обращений граждан"
        }
 }

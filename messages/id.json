@@ -19,7 +19,84 @@
               "bottom-right": "томонидан ишлаб чиқилган"
        },
        "Header": {
-              "first-title": "Biz haqimizda",
-              "second-title": "Xizmatlar"
-       }
+              "first-title": "Биз ҳақимизда",
+              "first-section-one": "Биз ҳақимизда",
+              "first-section-two": "Раҳбарият",
+              "first-section-three": "Тузилма",
+              "first-section-five": "Бўлим ва хизматлар",
+              "first-section-six": "Таркибий корхоналар",
+              "first-section-seven": "Mеъёрий ҳужжатлар",
+              "first-section-eight": "Бўш иш ўринлари",
+              "first-section-nine": "Тез-тез сўраладиган саволлар",
+              "first-section-ten": "Жамият – рақамлаштириш",
+              "first-section-eleven": "Жамият касаба уюшмаси",
+
+              "second-title": "Фаолият",
+              "second-section-one": "Корхоналар йўналишлари",
+              "second-section-two": "Чора-тадбирлар",
+              "second-section-three": "Ҳисоботлар",
+              "second-section-four": "Электрон ҳукумат",
+              "second-section-five": "Ҳамкорлик",
+              "second-section-six": "Хизматлар",
+              "second-section-seven-title": "Ёшлар сиёсати",
+              "second-section-seven-one-text": "Ёшларга оид янгиликлар",
+              "second-section-seven-two-text": "Ёшларга оид меъёрий ҳужжатлар",
+              
+              "three-title": "Корпоратив бошқарув",
+              "three-section-one-title": "Бошқарув назорати органи",
+              "three-section-one-text-one": "Кузатув кенгаши",
+              "three-section-one-text-two": "Ижро органи",
+              "three-section-one-text-three": "Тафтиш комиссияси",
+              "three-section-one-text-four": "Ички аудит хизмати",
+              "three-section-one-text-five": "Кузатув кенгаши аъзоларини мукофотлаш",
+
+              "three-section-two-title": "Маълумотларни ошкор этиш",
+              "three-section-two-text-one": "Қимматбаҳо қоғозлар чиқариш",
+              "three-section-two-text-two": "Муҳим фактлар",
+              "three-section-two-text-three": "Бухгалтерия ҳисобининг миллий стандартлари",
+              "three-section-two-text-four": "Молиявий ҳисоботнинг халқаро стандартлари",
+              "three-section-two-text-five": "Аудит хулосаси",
+              "three-section-two-text-six": "Эмитент ҳисоботлари",
+
+              "three-section-three-title": "Жамиятнинг ички ҳужжатлари",
+
+              "three-section-four-title": "Акциядорларга",
+              "three-section-four-text-one": "Устав фонди",
+              "three-section-four-text-two": "Афилланган шахслар",
+              "three-section-four-text-three": "Акциядорлар рўйхати",
+              "three-section-four-text-four": "Резидент бўлмаган акциядорларга",
+              "three-section-four-text-five": "Дивидендлар",
+
+              "three-section-five-title": "Лойиҳалар",
+              "three-section-five-text-one": "Инвеститцион лойиҳалар",
+              "three-section-five-text-two": "Тендерлар",
+              "three-section-five-text-three": "Давлат харидлари",
+              "three-section-five-text-four": "Давлат хусусий шериклик",
+              "three-section-five-text-five": "Тадбирлар",
+
+              "three-section-six-title": "КБТ баҳолаш натижалари",
+
+              "three-section-seven-title": "Самарадорликнинг муҳим кўрсаткичлари",
+
+              "three-section-eight-title": "Бизнес режа",
+
+              "four-title": "Матбуот маркази",
+              "four-section-one": "Янгиликлар",
+              "four-section-two": "Медиа-тадбир",
+              "four-section-three": "Фотогалерея",
+              "four-section-four": "Видеогалерея",
+              "four-section-five": "Матбуот хизмати билан боғланиш",
+
+              "five-title": "Комплаенс назорати",
+
+              "six-title": "Очиқ маълумотлар",
+
+              "seven-title": "Алоқа",
+              "seven-section-one": "Девонхона",
+              "seven-section-two": "Халқаро ҳамкорлик",
+              "seven-section-three": "Ишонч телефони",
+              "seven-section-four": "Қайта алоқа",
+              "seven-section-five": "Фуқаролар мурожаати",
+              "seven-section-six": "Фуқаролар мурожаатлари статистикаси"
+       } 
 }

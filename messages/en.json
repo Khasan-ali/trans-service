@@ -20,7 +20,84 @@
               "bottom-right": "Developed by"
        },
        "Header": {
-              "first-title": "Weee services",
-              "second-title": "Services"
-       }
+              "first-title": "About Us",
+              "first-section-one": "About Us",
+              "first-section-two": "Leadership",
+              "first-section-three": "Structure",
+              "first-section-five": "Department and services",
+              "first-section-six": "Structural enterprises",
+              "first-section-seven": "Regulatory documents",
+              "first-section-eight": "Vacancies",
+              "first-section-nine": "FAQ",
+              "first-section-ten": "Society - Digitization",
+              "first-section-eleven": "Community trade union",
+
+              "second-title": "Activity",
+              "second-section-one": "Directions of enterprises",
+              "second-section-two": "Measures",
+              "second-section-three": "Reports",
+              "second-section-four": "Electronic government",
+              "second-section-five": "Cooperation",
+              "second-section-six": "Services",
+              "second-section-seven-title": "Youth policy",
+              "second-section-seven-one-text": "Youth news",
+              "second-section-seven-two-text": "Normative documents on youth",
+              
+              "three-title": "Corporate governance",
+              "three-section-one-title": "Management control body",
+              "three-section-one-text-one": "Supervisory board",
+              "three-section-one-text-two": "Executive body",
+              "three-section-one-text-three": "Inspection commission",
+              "three-section-one-text-four": "Internal audit service",
+              "three-section-one-text-five": "Remuneration of Supervisory Board members",
+
+              "three-section-two-title": "Disclosure of information",
+              "three-section-two-text-one": "Issuance of securities",
+              "three-section-two-text-two": "Important facts",
+              "three-section-two-text-three": "National accounting standards",
+              "three-section-two-text-four": "International standards of financial reporting",
+              "three-section-two-text-five": "Audit summary",
+              "three-section-two-text-six": "Issuer reports",
+
+              "three-section-three-title": "Internal documents of the society",
+
+              "three-section-four-title": "To shareholders",
+              "three-section-four-text-one": "Charter fund",
+              "three-section-four-text-two": "Affiliates",
+              "three-section-four-text-three": "List of shareholders",
+              "three-section-four-text-four": "To non-resident shareholders",
+              "three-section-four-text-five": "Dividends",
+
+              "three-section-five-title": "Projects",
+              "three-section-five-text-one": "Investment projects",
+              "three-section-five-text-two": "Tenders",
+              "three-section-five-text-three": "State purchases",
+              "three-section-five-text-four": "Public private partnership",
+              "three-section-five-text-five": "Events",
+
+              "three-section-six-title": "CBT assessment results",
+
+              "three-section-seven-title": "Key performance indicators",
+
+              "three-section-eight-title": "Business plan",
+
+              "four-title": "Press center",
+              "four-section-one": "News",
+              "four-section-two": "Media event",
+              "four-section-three": "Photo gallery",
+              "four-section-four": "Video Gallery",
+              "four-section-five": "Contact the press service",
+
+              "five-title": "Compliance control",
+
+              "six-title": "Open data",
+
+              "seven-title": "Contacts",
+              "seven-section-one": "Office",
+              "seven-section-two": "International cooperation",
+              "seven-section-three": "Hotline",
+              "seven-section-four": "Feedback",
+              "seven-section-five": "Citizen appeal",
+              "seven-section-six": "Citizen complaints statistics"
+       } 
 }
