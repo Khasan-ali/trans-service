@@ -1,6 +1,6 @@
-.header {
+/* .header {
        padding: 16px 0px;
-}
+} */
 
 .header_container {
        display: flex;
@@ -9,10 +9,24 @@
        max-width: 1264px;
        width: 100%;
        margin: 0 auto;
-       padding: 0 20px;
+       padding: 16px 20px;
 }
 
 .header_section {
        display: flex;
        align-items: center;
+}
+
+.header_btn {
+       display: none;
+       margin-left: 20px;
+       background: none;
+       border: none;
+}
+
+
+@media only screen and (max-width: 1070px) {
+       .header_btn {
+              display: flex;
+       }       
 }

@@ -5,7 +5,9 @@ export default function Home() {
   console.log(t('title'));
 
   return <div>
-    <h1>{t('title')}</h1>
-    <p>{t('description')}</p>
+    <div className="container">
+      <h1>{t('title')}</h1>
+      <p>{t('description')}</p>
+    </div>
   </div>
 }

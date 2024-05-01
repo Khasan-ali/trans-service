@@ -5,8 +5,9 @@ import cls from './styles.module.css'
 import { useTranslations } from 'next-intl'
 import Image from 'next/image'
 import SelectArrow from '../../assets/images/select-arrow.svg'
+import CloseBtn from '../../assets/images/close.png'
 
-export default function MyDropdown() {
+export default function MyDropdown({setState}) {
   const t = useTranslations('Header')
 
   const data = [
@@ -356,11 +357,20 @@ export default function MyDropdown() {
 
 
   return (
-    <div className={cls.header_center}>
+    <>
+    <div className='header_center'>
+      <button onClick={() => setState(false)} className='header-close-btn'>
+        <Image src={CloseBtn} alt='has close img' width={'22'} height={'22'} />
+      </button>
+    <ul className={'header_center_list'}>
       {data?.map((element) => (
-        element?.children ? (<Menu key={element?.id}>
+
+        element?.children ? (
+          <li className={cls.header_menu_section} key={element?.id}>
+        <Menu>
           <Menu.Button className={`${cls.header_menu_btn}`}>{element?.title}<Image className={cls.header_menu_btn_img} src={SelectArrow} alt='Has select arrow' /></Menu.Button>
-          <Menu.Items className={cls.nav_menu_list}>
+          <Menu.Items className={'nav_menu_list'}>
+
             {element?.children?.map((childElement) => (
               <Menu.Item key={childElement?.id}>
 
@@ -385,9 +395,16 @@ export default function MyDropdown() {
 
               </Menu.Item>
             ))}
+
           </Menu.Items>
-        </Menu>) : (<Link className={cls.header_menu_element_link} key={element?.id} href={element?.path}>{element?.title}</Link>))
+          
+        </Menu></li>) : (<Link className={cls.header_menu_element_link} key={element?.id} href={element?.path}>{element?.title}</Link>))
+        
+      
       )}
+    </ul>
     </div>
+    <span onClick={() => setState(false)} className="blur"></span>
+    </>
   )
 }
