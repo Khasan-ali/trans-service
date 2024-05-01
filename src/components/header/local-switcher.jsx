@@ -19,7 +19,7 @@ export default function LocalSwitcher() {
        }
 
        return (
-                     <select style={{padding: "10px", background: "#F3F3F3", borderRadius: "5px"}} defaultValue={localActive}
+                     <select className="language-select" style={{padding: "10px", background: "#F3F3F3", borderRadius: "5px", border: "none"}} defaultValue={localActive}
                       onChange={onSelectChange}
                       disabled={isPending}
                       >
